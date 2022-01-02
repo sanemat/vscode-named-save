@@ -1,6 +1,6 @@
-# vscode-named-save README
+# named-save README
 
-This is the README for your extension "vscode-named-save". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "named-save". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

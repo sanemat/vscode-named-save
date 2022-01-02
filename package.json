@@ -1,5 +1,5 @@
 {
-  "name": "vscode-named-save",
+  "name": "named-save",
 	"displayName": "NamedSave",
 	"description": "",
 	"version": "0.0.1",
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:vscode-named-save.helloWorld"
+        "onCommand:named-save.helloWorld"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "vscode-named-save.helloWorld",
+				"command": "named-save.helloWorld",
 				"title": "Hello World"
 			}
 		]
